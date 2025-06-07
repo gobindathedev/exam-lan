@@ -1,18 +1,13 @@
-# Welcome to your Lovable project
+# Welcome to your NilXGobinda project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/f0f25988-1ef4-487e-a3a3-e6edccda2c39
+**URL**: NOT hosted
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/f0f25988-1ef4-487e-a3a3-e6edccda2c39) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,12 +57,12 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/f0f25988-1ef4-487e-a3a3-e6edccda2c39) and click on Share -> Publish.
+Contact: feedbacknil@gmail.com
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](Contact: feedbacknil@gmail.com)
